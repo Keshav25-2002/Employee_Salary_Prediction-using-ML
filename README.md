@@ -1,5 +1,11 @@
 # Employee_Salary_Prediction-using-ML
 
-Download dataset from this link : 
+AIM:
 
-https://www.kaggle.com/pavanelisetty/salarypredictions
+To predict the salary of employee based on the information provided in the dataset.
+
+
+Download dataset from this link :
+
+
+https://www.kaggle.com/pavanelisetty/salarypredictions]
